@@ -6,6 +6,7 @@ body {
   border: none;
   border-radius: 50px;
   padding: 5px;
+  margin-left: 13px;
   outline: none;
 }
 .search-field:hover {
@@ -22,8 +23,8 @@ body {
 }
 .search-button {
   padding: 10px 50px;
-  border-radius: 25px;
-  margin-left: 20px;
+  border-radius: 20px;
+  margin-left: 12px;
 }
 #all-products {
   display: grid;
